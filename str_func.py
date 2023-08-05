@@ -1,7 +1,7 @@
 def apper_text(text):
-    """
-    Функция возвращает текст, написанный капсом
-    """
+  """
+  Функция возвращает текст, написанный капсом
+  """
     new_list = []
     list_of_text = text.split(" ")
     for word in list_of_text:
